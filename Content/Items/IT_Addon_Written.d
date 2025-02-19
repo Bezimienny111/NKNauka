@@ -29,9 +29,6 @@ func void use_hinweis_02()
 	Doc_PrintLines(ndocid,0,"");
 	Doc_PrintLines(ndocid,0,"Lou znikn¹³ na bagnie. Pewnikiem ze¿ar³y go wê¿e.");
 	Doc_PrintLines(ndocid,0,"Co gorsza, wraz z nim znikn¹³ klucz do drzwi.");
-	Doc_PrintLines(ndocid,0,"Co gorsza, wraz z nim znikn¹³ klucz do drzwi.");
-	Doc_PrintLines(ndocid,0,"Co gorsza, wraz z nim znikn¹³ klucz do drzwi.");
-		Doc_PrintLines(ndocid,0,"Co gorsza, wraz z nim znikn¹³ klucz do drzwi.");
 	Doc_PrintLines(ndocid,0,"");
 	Doc_PrintLines(ndocid,0,"Ten, kto go znajdzie, bêdzie móg³ zatrzymaæ rzeczy Lou.");
 	Doc_PrintLine(ndocid,0,"");
